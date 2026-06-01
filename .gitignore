@@ -1,0 +1,11 @@
+# Compiled binaries
+/drift_gui
+/drift
+*.o
+*.dSYM/
+
+# Screenshots the app saves (in case anyone runs it from inside the repo)
+stickdrift-*.png
+
+# macOS
+.DS_Store
